@@ -1,0 +1,1 @@
+A C terminal program which, utilizing multithreaded programming, finds all prime numbers up to a certain point, and orders a randomly generated array using bubblesort. It also measured the time needed to complete these tasks so that the user can compare the efficiency of using multiple threads.
